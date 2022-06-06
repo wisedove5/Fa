@@ -1,0 +1,65 @@
+* {
+    padding:0;
+    margin:0; 
+    }
+    
+    body{
+    background-color: black;
+    font-family: 'Dancing Script', cursive;
+    font-size: 30px;
+    margin-left: 50px;
+    color: white;
+   
+    }
+    .h2 {
+        margin-left:550.5px;
+        color: orange;
+    }
+    .p1 {
+        margin-left: 700px;
+        list-style-type: none;
+        margin-top: -200px;
+    }
+    .p2 {
+        margin-left: 700px;
+        list-style-type: none;
+        margin-top: -200px;
+    
+    }
+    .p3 {
+        margin-left: 700px;
+        list-style-type: none;
+        margin-top: -200px;
+    }
+    .p4 {
+        margin-left: 700px;
+        list-style-type: none;
+        margin-top: -200px;
+    }
+    .img1 {
+        margin-left: 900px;
+        margin-top: -200px;
+
+    }
+    .img2 {
+        margin-left: 900px;
+        margin-top: -200px;
+
+    }
+    .img3{
+        margin-left: 900px;
+        margin-top: -200px;
+
+    }
+    .img4{
+        margin-left: 900px;
+        margin-top: -200px;
+
+    }
+    .B {
+        margin-left: 1100px;
+        margin-top:30px;
+        list-style-type:none;
+        color: white;
+        
+    }

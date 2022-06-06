@@ -1,0 +1,76 @@
+* {
+    padding:0;
+    margin:0; 
+    }
+    
+    body{
+    background: linear-gradient(rgba(103,136,240), rgba(236,89,149));
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    margin-left: 50px;
+    color: white;
+    height: 61.2%;
+   
+    }
+    .pg1 {
+        text-align: center;
+        list-style-type: none;
+    }
+    .pg1 {
+        text-align: center;
+        color: #fff;
+        text-transform: uppercase;
+        font-size: 60px;
+        margin-right: 300px;
+        margin-top: -10px;
+    }
+    
+    .pg1 a {
+        border: 1px solid #fff;
+        padding: 10px 25px;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-size: 14px;
+        margin-top: 20px;
+        display: inline-block;
+        color: #fff;
+    }
+    .pg1 a:hover {
+        background: darkblue;
+        
+    }
+    .pg2 {
+        text-align: center;
+        list-style-type: none;
+        
+    }
+    .pg2 {
+        text-align: center;
+        color: #fff;
+        text-transform: uppercase;
+        font-size: 60px;
+        margin-left: 200px;
+        margin-top: -82px;
+    }
+    
+    .pg2 a {
+        border: 1px solid #fff;
+        padding: 10px 25px;
+        text-decoration: none;
+        text-transform: uppercase;
+        font-size: 14px;
+        margin-top: 30px;
+        display: inline-block;
+        color: #fff;
+    }
+    .pg2 a:hover {
+        background: darkblue;
+        
+    }
+    .h1 {
+        margin-left: 390px;
+        font-size: 80px;
+        margin-top: 250px;
+    }
